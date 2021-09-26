@@ -1,1 +1,602 @@
-﻿
+[
+  {
+    "IdentificadorPregunta": 0,
+    "TextoRespuesta": "Dante Alighieri",
+    "Correcta": true,
+    "Identificador": 0
+  },
+  {
+    "IdentificadorPregunta": 0,
+    "TextoRespuesta": "Ovidio",
+    "Correcta": false,
+    "Identificador": 1
+  },
+  {
+    "IdentificadorPregunta": 0,
+    "TextoRespuesta": "Bob Marley",
+    "Correcta": false,
+    "Identificador": 2
+  },
+  {
+    "IdentificadorPregunta": 0,
+    "TextoRespuesta": "Isaac Asimov",
+    "Correcta": false,
+    "Identificador": 3
+  },
+  {
+    "IdentificadorPregunta": 1,
+    "TextoRespuesta": "Para escuchar musica",
+    "Correcta": false,
+    "Identificador": 4
+  },
+  {
+    "IdentificadorPregunta": 1,
+    "TextoRespuesta": "Para relajar",
+    "Correcta": false,
+    "Identificador": 5
+  },
+  {
+    "IdentificadorPregunta": 1,
+    "TextoRespuesta": "Para mezclar pinturas",
+    "Correcta": true,
+    "Identificador": 6
+  },
+  {
+    "IdentificadorPregunta": 1,
+    "TextoRespuesta": "Para cantar",
+    "Correcta": false,
+    "Identificador": 7
+  },
+  {
+    "IdentificadorPregunta": 2,
+    "TextoRespuesta": "Picasso",
+    "Correcta": false,
+    "Identificador": 8
+  },
+  {
+    "IdentificadorPregunta": 2,
+    "TextoRespuesta": "Dante Alighieri",
+    "Correcta": false,
+    "Identificador": 9
+  },
+  {
+    "IdentificadorPregunta": 2,
+    "TextoRespuesta": "Jesucristo",
+    "Correcta": false,
+    "Identificador": 10
+  },
+  {
+    "IdentificadorPregunta": 2,
+    "TextoRespuesta": "Gabriel Garcia Marquez",
+    "Correcta": true,
+    "Identificador": 11
+  },
+  {
+    "IdentificadorPregunta": 3,
+    "TextoRespuesta": "Pentagrama",
+    "Correcta": true,
+    "Identificador": 12
+  },
+  {
+    "IdentificadorPregunta": 3,
+    "TextoRespuesta": "Piano",
+    "Correcta": false,
+    "Identificador": 13
+  },
+  {
+    "IdentificadorPregunta": 3,
+    "TextoRespuesta": "Notas Musicales",
+    "Correcta": false,
+    "Identificador": 14
+  },
+  {
+    "IdentificadorPregunta": 3,
+    "TextoRespuesta": "Escalera",
+    "Correcta": false,
+    "Identificador": 15
+  },
+  {
+    "IdentificadorPregunta": 4,
+    "TextoRespuesta": "Se lo lleva la corriente",
+    "Correcta": false,
+    "Identificador": 16
+  },
+  {
+    "IdentificadorPregunta": 4,
+    "TextoRespuesta": "Camina cojo",
+    "Correcta": false,
+    "Identificador": 17
+  },
+  {
+    "IdentificadorPregunta": 4,
+    "TextoRespuesta": "No muerde",
+    "Correcta": true,
+    "Identificador": 18
+  },
+  {
+    "IdentificadorPregunta": 4,
+    "TextoRespuesta": "No ve",
+    "Correcta": false,
+    "Identificador": 19
+  },
+  {
+    "IdentificadorPregunta": 5,
+    "TextoRespuesta": "Pi",
+    "Correcta": true,
+    "Identificador": 20
+  },
+  {
+    "IdentificadorPregunta": 5,
+    "TextoRespuesta": "Una derivada",
+    "Correcta": false,
+    "Identificador": 21
+  },
+  {
+    "IdentificadorPregunta": 5,
+    "TextoRespuesta": "Un cuadrado",
+    "Correcta": false,
+    "Identificador": 22
+  },
+  {
+    "IdentificadorPregunta": 5,
+    "TextoRespuesta": "La medida de la superficie de la tierra",
+    "Correcta": false,
+    "Identificador": 23
+  },
+  {
+    "IdentificadorPregunta": 6,
+    "TextoRespuesta": "La cara",
+    "Correcta": false,
+    "Identificador": 24
+  },
+  {
+    "IdentificadorPregunta": 6,
+    "TextoRespuesta": "El hombro",
+    "Correcta": false,
+    "Identificador": 25
+  },
+  {
+    "IdentificadorPregunta": 6,
+    "TextoRespuesta": "La mano",
+    "Correcta": true,
+    "Identificador": 26
+  },
+  {
+    "IdentificadorPregunta": 6,
+    "TextoRespuesta": "Ninguno",
+    "Correcta": false,
+    "Identificador": 27
+  },
+  {
+    "IdentificadorPregunta": 7,
+    "TextoRespuesta": "Corazon",
+    "Correcta": false,
+    "Identificador": 28
+  },
+  {
+    "IdentificadorPregunta": 7,
+    "TextoRespuesta": "Pancreas",
+    "Correcta": true,
+    "Identificador": 29
+  },
+  {
+    "IdentificadorPregunta": 7,
+    "TextoRespuesta": "Ri\u00F1on",
+    "Correcta": false,
+    "Identificador": 30
+  },
+  {
+    "IdentificadorPregunta": 7,
+    "TextoRespuesta": "Pulmones",
+    "Correcta": false,
+    "Identificador": 31
+  },
+  {
+    "IdentificadorPregunta": 8,
+    "TextoRespuesta": "8",
+    "Correcta": true,
+    "Identificador": 32
+  },
+  {
+    "IdentificadorPregunta": 8,
+    "TextoRespuesta": "4",
+    "Correcta": false,
+    "Identificador": 33
+  },
+  {
+    "IdentificadorPregunta": 8,
+    "TextoRespuesta": "6",
+    "Correcta": false,
+    "Identificador": 34
+  },
+  {
+    "IdentificadorPregunta": 8,
+    "TextoRespuesta": "10",
+    "Correcta": false,
+    "Identificador": 35
+  },
+  {
+    "IdentificadorPregunta": 9,
+    "TextoRespuesta": "Pulgar",
+    "Correcta": true,
+    "Identificador": 36
+  },
+  {
+    "IdentificadorPregunta": 9,
+    "TextoRespuesta": "Anular",
+    "Correcta": false,
+    "Identificador": 37
+  },
+  {
+    "IdentificadorPregunta": 9,
+    "TextoRespuesta": "Me\u00F1ique",
+    "Correcta": true,
+    "Identificador": 38
+  },
+  {
+    "IdentificadorPregunta": 9,
+    "TextoRespuesta": "Del medio",
+    "Correcta": false,
+    "Identificador": 39
+  },
+  {
+    "IdentificadorPregunta": 10,
+    "TextoRespuesta": "Camilo",
+    "Correcta": false,
+    "Identificador": 40
+  },
+  {
+    "IdentificadorPregunta": 10,
+    "TextoRespuesta": "Andres",
+    "Correcta": true,
+    "Identificador": 41
+  },
+  {
+    "IdentificadorPregunta": 10,
+    "TextoRespuesta": "Leonel",
+    "Correcta": false,
+    "Identificador": 42
+  },
+  {
+    "IdentificadorPregunta": 10,
+    "TextoRespuesta": "Juan",
+    "Correcta": false,
+    "Identificador": 43
+  },
+  {
+    "IdentificadorPregunta": 11,
+    "TextoRespuesta": "Chile",
+    "Correcta": false,
+    "Identificador": 44
+  },
+  {
+    "IdentificadorPregunta": 11,
+    "TextoRespuesta": "Colombia",
+    "Correcta": false,
+    "Identificador": 45
+  },
+  {
+    "IdentificadorPregunta": 11,
+    "TextoRespuesta": "Espa\u00F1a",
+    "Correcta": true,
+    "Identificador": 46
+  },
+  {
+    "IdentificadorPregunta": 11,
+    "TextoRespuesta": "Alemania",
+    "Correcta": false,
+    "Identificador": 47
+  },
+  {
+    "IdentificadorPregunta": 12,
+    "TextoRespuesta": "Karate",
+    "Correcta": false,
+    "Identificador": 48
+  },
+  {
+    "IdentificadorPregunta": 12,
+    "TextoRespuesta": "Lucha libre",
+    "Correcta": true,
+    "Identificador": 49
+  },
+  {
+    "IdentificadorPregunta": 12,
+    "TextoRespuesta": "Motociclismo",
+    "Correcta": false,
+    "Identificador": 50
+  },
+  {
+    "IdentificadorPregunta": 12,
+    "TextoRespuesta": "Atletismo",
+    "Correcta": false,
+    "Identificador": 51
+  },
+  {
+    "IdentificadorPregunta": 13,
+    "TextoRespuesta": "Cristiano",
+    "Correcta": false,
+    "Identificador": 52
+  },
+  {
+    "IdentificadorPregunta": 13,
+    "TextoRespuesta": "Pele",
+    "Correcta": false,
+    "Identificador": 53
+  },
+  {
+    "IdentificadorPregunta": 13,
+    "TextoRespuesta": "Maradona",
+    "Correcta": false,
+    "Identificador": 54
+  },
+  {
+    "IdentificadorPregunta": 13,
+    "TextoRespuesta": "Messi",
+    "Correcta": true,
+    "Identificador": 55
+  },
+  {
+    "IdentificadorPregunta": 14,
+    "TextoRespuesta": "Baloncesto",
+    "Correcta": true,
+    "Identificador": 56
+  },
+  {
+    "IdentificadorPregunta": 14,
+    "TextoRespuesta": "Tennis",
+    "Correcta": false,
+    "Identificador": 57
+  },
+  {
+    "IdentificadorPregunta": 14,
+    "TextoRespuesta": "Futbol",
+    "Correcta": false,
+    "Identificador": 58
+  },
+  {
+    "IdentificadorPregunta": 14,
+    "TextoRespuesta": "Ciclismo",
+    "Correcta": false,
+    "Identificador": 59
+  },
+  {
+    "IdentificadorPregunta": 15,
+    "TextoRespuesta": "Una pi\u00F1a",
+    "Correcta": true,
+    "Identificador": 60
+  },
+  {
+    "IdentificadorPregunta": 15,
+    "TextoRespuesta": "Una sandia",
+    "Correcta": false,
+    "Identificador": 61
+  },
+  {
+    "IdentificadorPregunta": 15,
+    "TextoRespuesta": "Un coco",
+    "Correcta": false,
+    "Identificador": 62
+  },
+  {
+    "IdentificadorPregunta": 15,
+    "TextoRespuesta": "Un banano",
+    "Correcta": false,
+    "Identificador": 63
+  },
+  {
+    "IdentificadorPregunta": 16,
+    "TextoRespuesta": "Blancas",
+    "Correcta": true,
+    "Identificador": 64
+  },
+  {
+    "IdentificadorPregunta": 16,
+    "TextoRespuesta": "Rojas",
+    "Correcta": false,
+    "Identificador": 65
+  },
+  {
+    "IdentificadorPregunta": 16,
+    "TextoRespuesta": "Amarillas",
+    "Correcta": false,
+    "Identificador": 66
+  },
+  {
+    "IdentificadorPregunta": 16,
+    "TextoRespuesta": "No tiene",
+    "Correcta": false,
+    "Identificador": 67
+  },
+  {
+    "IdentificadorPregunta": 17,
+    "TextoRespuesta": "Carl Johnson",
+    "Correcta": true,
+    "Identificador": 68
+  },
+  {
+    "IdentificadorPregunta": 17,
+    "TextoRespuesta": "Madd Dogg",
+    "Correcta": false,
+    "Identificador": 69
+  },
+  {
+    "IdentificadorPregunta": 17,
+    "TextoRespuesta": "Frank Tenpenny",
+    "Correcta": false,
+    "Identificador": 70
+  },
+  {
+    "IdentificadorPregunta": 17,
+    "TextoRespuesta": "Leonel Messi",
+    "Correcta": false,
+    "Identificador": 71
+  },
+  {
+    "IdentificadorPregunta": 18,
+    "TextoRespuesta": "1945",
+    "Correcta": false,
+    "Identificador": 72
+  },
+  {
+    "IdentificadorPregunta": 18,
+    "TextoRespuesta": "1989",
+    "Correcta": false,
+    "Identificador": 73
+  },
+  {
+    "IdentificadorPregunta": 18,
+    "TextoRespuesta": "1940",
+    "Correcta": true,
+    "Identificador": 74
+  },
+  {
+    "IdentificadorPregunta": 18,
+    "TextoRespuesta": "2000",
+    "Correcta": false,
+    "Identificador": 75
+  },
+  {
+    "IdentificadorPregunta": 19,
+    "TextoRespuesta": "ABBA",
+    "Correcta": true,
+    "Identificador": 76
+  },
+  {
+    "IdentificadorPregunta": 19,
+    "TextoRespuesta": "Metallica",
+    "Correcta": false,
+    "Identificador": 77
+  },
+  {
+    "IdentificadorPregunta": 19,
+    "TextoRespuesta": "The Beatles ",
+    "Correcta": false,
+    "Identificador": 78
+  },
+  {
+    "IdentificadorPregunta": 19,
+    "TextoRespuesta": "Juanes",
+    "Correcta": false,
+    "Identificador": 79
+  },
+  {
+    "IdentificadorPregunta": 20,
+    "TextoRespuesta": "Azul-Amarillo-Rojo",
+    "Correcta": false,
+    "Identificador": 80
+  },
+  {
+    "IdentificadorPregunta": 20,
+    "TextoRespuesta": "Amarillo-Rojo-Azul",
+    "Correcta": false,
+    "Identificador": 81
+  },
+  {
+    "IdentificadorPregunta": 20,
+    "TextoRespuesta": "Amarillo-Azul-Rojo",
+    "Correcta": true,
+    "Identificador": 82
+  },
+  {
+    "IdentificadorPregunta": 20,
+    "TextoRespuesta": "Verde-Blanco-Negro",
+    "Correcta": false,
+    "Identificador": 83
+  },
+  {
+    "IdentificadorPregunta": 21,
+    "TextoRespuesta": "Lago Victoria",
+    "Correcta": true,
+    "Identificador": 84
+  },
+  {
+    "IdentificadorPregunta": 21,
+    "TextoRespuesta": "Mar Atlantico",
+    "Correcta": false,
+    "Identificador": 85
+  },
+  {
+    "IdentificadorPregunta": 21,
+    "TextoRespuesta": "Mar Caribe",
+    "Correcta": false,
+    "Identificador": 86
+  },
+  {
+    "IdentificadorPregunta": 21,
+    "TextoRespuesta": "Lago Muerto",
+    "Correcta": false,
+    "Identificador": 87
+  },
+  {
+    "IdentificadorPregunta": 22,
+    "TextoRespuesta": "Italia",
+    "Correcta": false,
+    "Identificador": 88
+  },
+  {
+    "IdentificadorPregunta": 22,
+    "TextoRespuesta": "Francia",
+    "Correcta": true,
+    "Identificador": 89
+  },
+  {
+    "IdentificadorPregunta": 22,
+    "TextoRespuesta": "Mexico",
+    "Correcta": false,
+    "Identificador": 90
+  },
+  {
+    "IdentificadorPregunta": 22,
+    "TextoRespuesta": "Costa Rica",
+    "Correcta": false,
+    "Identificador": 91
+  },
+  {
+    "IdentificadorPregunta": 23,
+    "TextoRespuesta": "Asia",
+    "Correcta": true,
+    "Identificador": 92
+  },
+  {
+    "IdentificadorPregunta": 23,
+    "TextoRespuesta": "Oceania",
+    "Correcta": false,
+    "Identificador": 93
+  },
+  {
+    "IdentificadorPregunta": 23,
+    "TextoRespuesta": "America",
+    "Correcta": false,
+    "Identificador": 94
+  },
+  {
+    "IdentificadorPregunta": 23,
+    "TextoRespuesta": "Sur America",
+    "Correcta": false,
+    "Identificador": 95
+  },
+  {
+    "IdentificadorPregunta": 24,
+    "TextoRespuesta": "Oslo",
+    "Correcta": true,
+    "Identificador": 96
+  },
+  {
+    "IdentificadorPregunta": 24,
+    "TextoRespuesta": "Toledo",
+    "Correcta": false,
+    "Identificador": 97
+  },
+  {
+    "IdentificadorPregunta": 24,
+    "TextoRespuesta": "Cueta",
+    "Correcta": false,
+    "Identificador": 98
+  },
+  {
+    "IdentificadorPregunta": 24,
+    "TextoRespuesta": "Medellin",
+    "Correcta": false,
+    "Identificador": 99
+  }
+]

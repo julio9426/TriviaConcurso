@@ -1,1 +1,152 @@
-﻿  
+[
+  {
+    "IdentificadorCategoria": 0,
+    "TextoPregunta": "\u00BFQuien escribio \u0022La Divina Comedia\u0022?",
+    "ContadorRespuestas": 4,
+    "Identificador": 0
+  },
+  {
+    "IdentificadorCategoria": 0,
+    "TextoPregunta": "\u00BFPara que sirve la paleta?",
+    "ContadorRespuestas": 4,
+    "Identificador": 1
+  },
+  {
+    "IdentificadorCategoria": 0,
+    "TextoPregunta": "\u00BFQuien escribio \u0022El coronel no tiene quien le escriba\u0022?",
+    "ContadorRespuestas": 4,
+    "Identificador": 2
+  },
+  {
+    "IdentificadorCategoria": 0,
+    "TextoPregunta": "\u00BFComo se llama el conjunto de 5 lineas y 4 espacios?",
+    "ContadorRespuestas": 4,
+    "Identificador": 3
+  },
+  {
+    "IdentificadorCategoria": 0,
+    "TextoPregunta": "Perro que ladra...",
+    "ContadorRespuestas": 4,
+    "Identificador": 4
+  },
+  {
+    "IdentificadorCategoria": 1,
+    "TextoPregunta": "En matematicas \u00BFQue es 3,14?",
+    "ContadorRespuestas": 4,
+    "Identificador": 5
+  },
+  {
+    "IdentificadorCategoria": 1,
+    "TextoPregunta": "\u00BFQue parte del cuerpo tiene 27 huesos y 35 musculos?",
+    "ContadorRespuestas": 4,
+    "Identificador": 6
+  },
+  {
+    "IdentificadorCategoria": 1,
+    "TextoPregunta": "\u00BFQue organo es el encargado de fabricar insulina?",
+    "ContadorRespuestas": 4,
+    "Identificador": 7
+  },
+  {
+    "IdentificadorCategoria": 1,
+    "TextoPregunta": "\u00BFCuantas patas tienen las ara\u00F1as?",
+    "ContadorRespuestas": 4,
+    "Identificador": 8
+  },
+  {
+    "IdentificadorCategoria": 1,
+    "TextoPregunta": "\u00BFQue dedo de la mano tiene dos falanges?",
+    "ContadorRespuestas": 4,
+    "Identificador": 9
+  },
+  {
+    "IdentificadorCategoria": 2,
+    "TextoPregunta": "\u00BFComo se llama Iniesta?",
+    "ContadorRespuestas": 4,
+    "Identificador": 10
+  },
+  {
+    "IdentificadorCategoria": 2,
+    "TextoPregunta": "\u00BFQuien gano el mundial de 2010 en Sud\u00E1frica?",
+    "ContadorRespuestas": 4,
+    "Identificador": 11
+  },
+  {
+    "IdentificadorCategoria": 2,
+    "TextoPregunta": "\u00BFA que deporte pertenece la WWE?",
+    "ContadorRespuestas": 4,
+    "Identificador": 12
+  },
+  {
+    "IdentificadorCategoria": 2,
+    "TextoPregunta": "\u00BFQuien tiene mas balones de oro?",
+    "ContadorRespuestas": 4,
+    "Identificador": 13
+  },
+  {
+    "IdentificadorCategoria": 2,
+    "TextoPregunta": "\u00BFEn que deporte destaco Maicol Jordan?",
+    "ContadorRespuestas": 4,
+    "Identificador": 14
+  },
+  {
+    "IdentificadorCategoria": 3,
+    "TextoPregunta": "\u00BFQue fruta es la casa de Bob Esponja?",
+    "ContadorRespuestas": 4,
+    "Identificador": 15
+  },
+  {
+    "IdentificadorCategoria": 3,
+    "TextoPregunta": "\u00BFEn Los Simpson de que color son las perlas de lisa?",
+    "ContadorRespuestas": 4,
+    "Identificador": 16
+  },
+  {
+    "IdentificadorCategoria": 3,
+    "TextoPregunta": "\u00BFComo se llama el personaje de GTA San Andreas?",
+    "ContadorRespuestas": 4,
+    "Identificador": 17
+  },
+  {
+    "IdentificadorCategoria": 3,
+    "TextoPregunta": "\u00BFEn que a\u00F1o se estreno \u0022Pinocho\u0022?",
+    "ContadorRespuestas": 4,
+    "Identificador": 18
+  },
+  {
+    "IdentificadorCategoria": 3,
+    "TextoPregunta": "\u00BFQuien canta \u0022Mamma M\u00EDa\u0022?",
+    "ContadorRespuestas": 4,
+    "Identificador": 19
+  },
+  {
+    "IdentificadorCategoria": 4,
+    "TextoPregunta": "\u00BFColores de la bandera de Colombia?",
+    "ContadorRespuestas": 4,
+    "Identificador": 20
+  },
+  {
+    "IdentificadorCategoria": 4,
+    "TextoPregunta": "\u00BFDonde nace el rio Nilo?",
+    "ContadorRespuestas": 4,
+    "Identificador": 21
+  },
+  {
+    "IdentificadorCategoria": 4,
+    "TextoPregunta": "\u00BFEn que pais esta la Costa Azul?",
+    "ContadorRespuestas": 4,
+    "Identificador": 22
+  },
+  {
+    "IdentificadorCategoria": 4,
+    "TextoPregunta": "\u00BFEn que continenete se encuentra Irak?",
+    "ContadorRespuestas": 4,
+    "Identificador": 23
+  },
+  {
+    "IdentificadorCategoria": 4,
+    "TextoPregunta": "\u00BFCapital de Noruega?",
+    "ContadorRespuestas": 4,
+    "Identificador": 24
+  }
+]

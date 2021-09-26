@@ -1,1 +1,37 @@
-﻿
+[
+  {
+    "Descripcion": "Arte y Literatura",
+    "RondaCategoria": 0,
+    "Premio": 10,
+    "ContadorPreguntas": 5,
+    "Identificador": 0
+  },
+  {
+    "Descripcion": "Ciencia",
+    "RondaCategoria": 1,
+    "Premio": 20,
+    "ContadorPreguntas": 5,
+    "Identificador": 1
+  },
+  {
+    "Descripcion": "Deporte",
+    "RondaCategoria": 2,
+    "Premio": 30,
+    "ContadorPreguntas": 5,
+    "Identificador": 2
+  },
+  {
+    "Descripcion": "Entretenimiento",
+    "RondaCategoria": 3,
+    "Premio": 40,
+    "ContadorPreguntas": 5,
+    "Identificador": 3
+  },
+  {
+    "Descripcion": "Geografia",
+    "RondaCategoria": 4,
+    "Premio": 50,
+    "ContadorPreguntas": 5,
+    "Identificador": 4
+  }
+]
